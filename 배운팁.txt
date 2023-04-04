@@ -1,0 +1,8 @@
+파라미터 = 매개변수
+void test(파라미터){} 이거다.
+
+배열에 파라미터를 넣을수 없다.
+circle cir_array[3](5); ㄴㄴ
+
+하지만 
+circle cir_array[3] = {circle(10), circle(10),circle(10)}; 이렇게 하면 된다.
